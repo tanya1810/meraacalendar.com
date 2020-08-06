@@ -1,0 +1,98 @@
+html {
+    font-size: 62.5%;
+    /* scroll-behavior: smooth; */
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    /* font-family: 'Hepta Slab', serif; */
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+    background-color: #000000;
+    /* most elements have line height 150% */
+    line-height: 150%;
+}
+
+/* Font size */
+
+.f-50 {
+    font-size: 3.83rem;
+}
+.f-40 {
+    font-size: 3.06rem;
+}
+.f-38 {
+    font-size: 2.91rem;
+}
+.f-30 {
+    font-size: 2.3rem;
+}
+
+/* .f-26 {
+    font-size: 1.99rem;
+} */
+
+.f-24 {
+    font-size: 1.84rem;
+}
+.f-20 {
+    font-size: 1.53rem;
+}
+.f-18 {
+    font-size: 1.38rem;
+}
+.f-16 {
+    font-size: 1.22rem;
+}
+.f-14 {
+    font-size: 1.07rem;
+}
+.f-12 {
+    font-size: 0.92rem;
+}
+.f-10 {
+    font-size: 0.766rem;
+}
+
+/* Font-sizes */
+
+
+/* font-weight */
+
+.fw-600 {
+    font-weight: 600;
+}
+
+/* font-weight */
+
+
+/* colors */
+
+.blue {
+    color: #1572B8;
+}
+.white {
+    color: #fff;
+}
+
+/* colors */
+
+.section-heading {
+    font-weight: 600;
+    border-bottom: 2px solid #fff;
+}
+
+/* For aligning text we can use bootstrap classes */
+
+.bg-gray {
+    background-color: rgba(245, 245, 245, 0.06);
+}
+.bg-blue {
+    background-color: #1572B8;
+}
+.bg-white {
+    background-color: #fff;
+    color: #000;
+}
