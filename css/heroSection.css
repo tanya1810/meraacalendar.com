@@ -1,0 +1,121 @@
+.navbar {
+    position: absolute;
+    top: 0px;
+    z-index: 99;
+    padding: 1rem 0rem;
+    background: #000;
+}
+.navbar-brand, .navbar-toggler {
+    margin-left: 2rem;
+}
+.navbar-toggler {
+    margin-right: 2rem;
+}
+.navbar-brand img {
+    vertical-align: baseline;
+}
+.navbar-collapse {
+    /* text-align: center; */
+    /* background: #0f0f0f; */
+    width: 100vw;
+    padding-left: 2rem;
+    /* right: 0%; */
+}
+
+/* .nav-item {
+    margin-right: 4rem;
+} */
+
+.navbar-dark .navbar-nav .active>.nav-link {
+    color: #1572B8;
+    /* border-bottom: 2px solid #1572B8; */
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+.hero-section-nav-prev, .hero-section-nav-next {
+    position: absolute;
+    bottom: 4rem;
+    right: 2rem;
+    padding: 0 1rem;
+    /* margin-right: 5rem; */
+    border-radius: 1rem;
+}
+.hero-section-nav-prev {
+    right: 6rem;
+}
+.carousel-indicators {
+    position: absolute;
+    bottom: 3rem;
+    left: 2rem;
+    margin: 0;
+    width: 25%;
+    justify-content: start;
+    /* left: auto; */
+}
+.carousel-indicators li {
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+}
+
+/*
+.carousel-indicators .active {
+    color: #fad957;
+}
+.carousel-indicators li {
+    text-indent: 0;
+    background: transparent;
+
+
+width: 50px;
+
+}*/
+
+.carousel-caption {
+    top: 50%;
+    transform: translateY(-50%);
+    width: 600px;
+}
+.caption-first {
+    left: 4rem;
+    text-align: left;
+}
+.caption-second {
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.caption-third {
+    right: 4rem;
+    text-align: right;
+    left: auto;
+}
+.divider {
+    margin: 0 1rem;
+}
+.hero-section-links:hover {
+    color: #1572B8;
+    text-decoration: underline;
+    text-decoration-color: #1572B8;
+}
+
+/* .hero-section-down {
+    position: relative;
+    bottom: 7rem;
+    left: 48%;
+    transform: translateX(-50%);
+} */
+
+
+/* .hero-section-down a {
+    color: #000;
+    background: #1572B8;
+    padding: 1rem 1.5rem;
+    border-radius: 1rem;
+} */
+
+
+/* .hero-section-down a:hover {
+    color: #fff;
+} */
