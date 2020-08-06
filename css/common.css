@@ -18,16 +18,16 @@ body {
 /* Font size */
 
 .f-50 {
-    font-size: 3.83rem;
+    font-size: 50px;
 }
 .f-40 {
-    font-size: 3.06rem;
+    font-size: 40px;
 }
 .f-38 {
-    font-size: 2.91rem;
+    font-size: 38px;
 }
 .f-30 {
-    font-size: 2.3rem;
+    font-size: 30px;
 }
 
 /* .f-26 {
@@ -35,25 +35,25 @@ body {
 } */
 
 .f-24 {
-    font-size: 1.84rem;
+    font-size: 24px;
 }
 .f-20 {
-    font-size: 1.53rem;
+    font-size: 20px;
 }
 .f-18 {
-    font-size: 1.38rem;
+    font-size: 18px;
 }
 .f-16 {
-    font-size: 1.22rem;
+    font-size: 16px;
 }
 .f-14 {
-    font-size: 1.07rem;
+    font-size: 14px;
 }
 .f-12 {
-    font-size: 0.92rem;
+    font-size: 12px;
 }
 .f-10 {
-    font-size: 0.766rem;
+    font-size: 10px;
 }
 
 /* Font-sizes */
