@@ -1,0 +1,23 @@
+.about-us {
+    padding: 50px 68px;
+}
+.services {
+    margin-top: 80px;
+}
+.services>* {
+    margin: 12px 0 0 0;
+}
+.services .f-18 {
+    opacity: 0.8;
+}
+.service-link i {
+    padding: 0px 12px;
+    /* border-radius: 50%; */
+}
+.service-link a {
+    border-radius: 50%;
+}
+.service-link a:hover {
+    text-decoration: none;
+    color: #000;
+}

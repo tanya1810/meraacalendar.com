@@ -11,8 +11,8 @@ body {
     font-family: 'Open Sans', sans-serif;
     color: #fff;
     background-color: #000000;
-    /* most elements have line height 150% */
-    line-height: 150%;
+    /* most elements have line height 150%  not working*/
+    /* line-height: 150%;  */
 }
 
 /* Font size */
@@ -94,13 +94,12 @@ body {
 }
 .bg-white {
     background-color: #fff;
-    color: #000;
 }
 
 /* footer */
 
 footer {
-    padding: 2.6rem;
+    padding: 34px;
 }
 footer div {
     margin-bottom: 10px;
