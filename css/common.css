@@ -96,3 +96,14 @@ body {
     background-color: #fff;
     color: #000;
 }
+
+/* footer */
+
+footer {
+    padding: 2.6rem;
+}
+footer div {
+    margin-bottom: 10px;
+}
+
+/* footer */
